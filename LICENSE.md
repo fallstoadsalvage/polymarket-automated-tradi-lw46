@@ -1,4 +1,4 @@
-# 
+# rare Polymarket Plugin | stop-loss-management + prediction-market-scanning offers the most advanced Polymarket plugin, with stop-loss-management and prediction-market-scanning.
 
 
 
